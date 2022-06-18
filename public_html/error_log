@@ -1,0 +1,40 @@
+[15-Nov-2020 16:36:59 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 16:36:59 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 220
+[15-Nov-2020 16:36:59 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 221
+[15-Nov-2020 16:36:59 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 222
+[15-Nov-2020 16:36:59 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 223
+[15-Nov-2020 16:37:04 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 16:56:12 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 16:56:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 220
+[15-Nov-2020 16:56:12 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 221
+[15-Nov-2020 16:56:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 222
+[15-Nov-2020 16:56:12 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 223
+[15-Nov-2020 17:10:56 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'box2142.bluehost.com' is not allowed to connect to this MySQL server in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:10:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 220
+[15-Nov-2020 17:10:56 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 221
+[15-Nov-2020 17:10:56 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/index.php on line 222
+[15-Nov-2020 17:10:56 America/Boise] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/index.php on line 223
+[15-Nov-2020 17:11:05 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'box2142.bluehost.com' is not allowed to connect to this MySQL server in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:11:12 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'box2142.bluehost.com' is not allowed to connect to this MySQL server in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:11:12 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/login.php on line 18
+[15-Nov-2020 17:11:12 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/login.php on line 19
+[15-Nov-2020 17:28:29 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asaadsay_magdynabil'@'box2142.bluehost.com' (using password: YES) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:28:29 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/login.php on line 18
+[15-Nov-2020 17:28:29 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/login.php on line 19
+[15-Nov-2020 17:28:35 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asaadsay_magdynabil'@'box2142.bluehost.com' (using password: YES) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:28:35 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/login.php on line 18
+[15-Nov-2020 17:28:35 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/login.php on line 19
+[15-Nov-2020 17:28:39 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asaadsay_magdynabil'@'box2142.bluehost.com' (using password: YES) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:28:39 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/login.php on line 18
+[15-Nov-2020 17:28:39 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/login.php on line 19
+[15-Nov-2020 17:28:44 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'asaadsay_magdynabil'@'box2142.bluehost.com' (using password: YES) in /home3/asaadsay/public_html/include/connect.php on line 5
+[15-Nov-2020 17:28:44 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home3/asaadsay/public_html/login.php on line 18
+[15-Nov-2020 17:28:44 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home3/asaadsay/public_html/login.php on line 19
+[25-Dec-2020 05:16:41 America/Boise] PHP Warning:  include_once(include/header.php): failed to open stream: No such file or directory in /home3/asaadsay/public_html/login.php on line 92
+[25-Dec-2020 05:16:41 America/Boise] PHP Warning:  include_once(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/asaadsay/public_html/login.php on line 92
+[25-Dec-2020 05:16:42 America/Boise] PHP Warning:  include_once(include/header.php): failed to open stream: No such file or directory in /home3/asaadsay/public_html/index.php on line 48
+[25-Dec-2020 05:16:42 America/Boise] PHP Warning:  include_once(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/asaadsay/public_html/index.php on line 48
+[25-Dec-2020 05:16:42 America/Boise] PHP Warning:  include_once(include/header.php): failed to open stream: No such file or directory in /home3/asaadsay/public_html/index.php on line 48
+[25-Dec-2020 05:16:42 America/Boise] PHP Warning:  include_once(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/asaadsay/public_html/index.php on line 48
+[25-Dec-2020 05:16:55 America/Boise] PHP Warning:  include_once(include/header.php): failed to open stream: No such file or directory in /home3/asaadsay/public_html/login.php on line 92
+[25-Dec-2020 05:16:55 America/Boise] PHP Warning:  include_once(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/asaadsay/public_html/login.php on line 92
